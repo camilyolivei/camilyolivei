@@ -2,7 +2,7 @@
 
 - 21 anos  
 - Especialista na Area de Front-end  
-- Cursando Análise e Desenvolvimento de Sistemas (3º Período) - FAMINAS/MG  
+- Cursando Análise e Desenvolvimento de Sistemas (2º Período) - FAMINAS/MG  
 
 <br />
 
