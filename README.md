@@ -12,8 +12,6 @@
 </div>
 
 
-<img src="https://github.com/camilyolivei/camilyolivei/blob/output/github-snake-dark.svg"/>
-
 <br />
 
 <div>
@@ -24,3 +22,5 @@
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=000" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff"/>
 </div>
+
+<img src="https://github.com/camilyolivei/camilyolivei/blob/output/github-snake-dark.svg"/>
