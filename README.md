@@ -11,6 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilyolivei&layout=compact&theme=radical""/>
 </div>
 
+
+<img src="https://github.com/camilyolivei/camilyolivei/blob/output/github-snake-dark.svg"/>
+
 <br />
 
 <div>
