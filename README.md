@@ -25,4 +25,3 @@
 
 <img src="https://github.com/camilyolivei/camilyolivei/blob/output/github-snake-dark.svg"/>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1164861%2Fscreenshots%2F7989722%2Fdoodle.gif&f=1&nofb=1&ipt=69d68acb9d4ca0414f7c1e9a2c09565f01300204221f2f67e80a204d2237d656&ipo=images" />
