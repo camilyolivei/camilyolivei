@@ -1,7 +1,7 @@
 # Olá , me chamo Camily  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYyY3U5c2o0am9ibG4ydHA0d3pjbGdzYTdpYWJiOHI5NjFkaXB6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mYBwRV4t949rk4NYWK/giphy.gif" align="right" width="100"/>
 
 - Especialista na Area de Front-end  
-- Cursando Análise e Desenvolvimento de Sistemas (2º Período) - FAMINAS/MG  
+- Cursando Análise e Desenvolvimento de Sistemas - FAMINAS/MG  
 
 <br />
 
